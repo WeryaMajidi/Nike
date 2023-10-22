@@ -16,7 +16,7 @@ This project is a simple landing page for a Nike shoe shop. It is fully responsi
 
 ### :clapper: Live Demo
 
-You can view a live demo of this project **[Here](netlify.app/)**<br/> <sub>➡️ To load faster please connect your VPN and then see the live demo.</sub>
+You can view a live demo of this project **[Here](https://nike-wrry.netlify.app)**<br/> <sub>➡️ To load faster please connect your VPN and then see the live demo.</sub>
 
 ### :computer: Installation
 
