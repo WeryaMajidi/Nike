@@ -45,8 +45,8 @@ function Footer() {
             </div>
           ))}
         </div>
-        <div className="flex justify-between text-white-400 mt-24 max-sm:items-center  w-full">
-          <div className="flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer">
+        <div className="flex justify-between flex-wrap text-white-400 mt-24 max-sm:items-center  w-full">
+          <div className="w-full mb-6  sm:w-fit flex justify-start items-center gap-2 font-montserrat cursor-pointer">
             <img
               src={copyrightSign}
               alt="Copyright sign"
